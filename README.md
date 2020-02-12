@@ -1,6 +1,8 @@
 [//]: # (Image Reference)
 [image1]: ./images/mnist_handwritten.jpg "Handwritten MNIST"
 [image2]: ./images/fashion-mnist-sprite.png "Fashion MNIST"
+[image3]: ./images/perceptron.png "P"
+[image4]: ./images/multi-layer-perceptron.png "MLP"
 [image5]: ./images/cnns.jpeg "CNNs"
 
 # MNIST-Classifier
@@ -14,10 +16,11 @@ __MNIST__ is a dataset containing 28 by 28 pixel sized grayscale images. This da
 
 In this repo, we'll be building three models:
 1. A simple linear model.
-
-
+[P resource](https://en.wikipedia.org/wiki/Perceptron)
+![P][image3]
 2. A simple multi-layer linear model.
-
+[MLP resources](https://en.wikipedia.org/wiki/Multilayer_perceptron)
+![MLP][image4]
 3. A more complex model that utilizes Convolution Neural Networks.(CNNs)
 [CNNs resources](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 ![CNNs][image5]
