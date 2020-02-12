@@ -1,5 +1,5 @@
 [//]: # (Image Reference)
-[image1]: ./images/mnist_handwritten.jpg "Handwritten MNIST"
+[image1]: ./images/mnist.png "Handwritten MNIST"
 [image2]: ./images/fashion-mnist-sprite.png "Fashion MNIST"
 [image3]: ./images/perceptron.png "P"
 [image4]: ./images/multi-layer-perceptron.png "MLP"
@@ -12,9 +12,9 @@ __MNIST__ is a dataset containing 28 by 28 pixel sized grayscale images. This da
 ![Handwritten MNIST][image1]
 ![Fashion MNIST][image2]
 
-## Building Models
+# Models we'll be Building
 
-In this repo, we'll be building three models:
+In this repo, we'll be building the last two models:
 1. A simple linear model.
 [P resource](https://en.wikipedia.org/wiki/Perceptron)
 ![P][image3]
@@ -24,4 +24,19 @@ In this repo, we'll be building three models:
 3. A more complex model that utilizes Convolution Neural Networks.(CNNs)
 [CNNs resources](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 ![CNNs][image5]
+
+# Tools and Libraries to Install
+
+1. Python.
+[Download](https://www.python.org/downloads/)
+
+2. Anaconda. A free and open-source distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. Package versions are managed by the package management system conda.
+[Download](https://www.anaconda.com/distribution/)
+
+3. PyTorch. An open source machine learning framework that accelerates the path from research prototyping to production deployment.
+[Get Started](https://pytorch.org/get-started/locally/)
+
+# Queries
+If you have any question concerning the repo, feel free to post your question on the __DCS ML Laikipia group__, or __DM__ or __Email me__ [martinoywa2@gmail.com](mailto:martinoywa2@gmail.com)
+
 
