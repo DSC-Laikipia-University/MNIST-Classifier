@@ -37,6 +37,6 @@ In this repo, we'll be building the last two models:
 [Get Started](https://pytorch.org/get-started/locally/)
 
 # Queries
-If you have any question concerning the repo, feel free to post your question on the __DCS ML Laikipia group__, or __DM__ or __Email me__ [martinoywa2@gmail.com](mailto:martinoywa2@gmail.com)
+If you have any question concerning the repo, feel free to post your question on the __DCS ML Laikipia group__, or __DM__ or __Email me__ [bonface.oywa@student.laikipia.ac.ke](mailto:boface.oywa@student.laikipia.ac.ke)
 
 
