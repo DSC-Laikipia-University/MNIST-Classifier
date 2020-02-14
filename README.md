@@ -39,4 +39,6 @@ In this repo, we'll be building the last two models:
 # Queries
 If you have any question concerning the repo, feel free to post your question on the __DCS ML Laikipia group__, or __DM__ or __Email me__ [bonface.oywa@student.laikipia.ac.ke](mailto:boface.oywa@student.laikipia.ac.ke)
 
+By __Martin Oywa__ - __Laikipia University Computer Students Association (LUCOSA) Chair__ and __DSC ML Facilitator__
+
 
